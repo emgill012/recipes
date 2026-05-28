@@ -5,3 +5,4 @@
 * salts $2
 ## Instructions
 * Put it in bowl
+* mash avocado!
